@@ -1,0 +1,39 @@
+{
+  "menuComponent" : {
+    "type":"column",
+    "children":[
+      {
+        "type":"text",
+        "text":""
+      }
+    ]
+  },
+  "gamesComponent" : [
+    {
+      "component":{
+        "type":"column",
+        "children":[
+          {
+            "type":"text",
+            "text":"Türkçe yaması BETA olarak mevcuttur"
+          }
+        ]
+      },
+      "gameId":"roomerang"
+    }
+  ],
+  "patchesComponent" : [
+    {
+      "component":{
+        "type":"column",
+        "children":[
+          {
+            "type":"text",
+            "text":"Bu yama BETA sürümündedir. Herhangi bir sorun olursa discord sunucusunda bildirin"
+          }
+        ]
+      },
+      "packId":"jpp9"
+    }
+  ]
+}

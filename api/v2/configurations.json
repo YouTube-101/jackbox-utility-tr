@@ -1,0 +1,10 @@
+{
+    "LAUNCHER": {
+        "HIDE_DUBBED_BY_COMMUNITY": true
+    },
+    "SERVER_INFORMATION": {
+        "SHOW_PATREONS_SUBSCRIBERS": false,
+        "PATREONS_SUBSCRIBERS": [
+        ]
+    }
+}
