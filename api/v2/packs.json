@@ -2121,7 +2121,7 @@
             "patch_path": "https://github.com/YouTube-101/jackbox-utility-tr/releases/download/releases/pp9.zip",
             "configuration": {
               "version_origin": "repo_file",
-              "version_file": "https://utility.jackbox.tv.tr/assets/patchs/pp9.jet",
+              "version_file": "https://izlence.jackbox.tv.tr/assets/patchs/pp9.jet",
               "version_property": "TRModVersion"
             },
             "components": [
