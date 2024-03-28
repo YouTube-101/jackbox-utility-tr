@@ -61,7 +61,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -305,7 +305,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -557,7 +557,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -813,7 +813,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -1068,7 +1068,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -1323,7 +1323,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -1583,7 +1583,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -1844,7 +1844,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -2104,7 +2104,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "jbg.config.jet",
+          "version_file": "jbg.config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -2121,7 +2121,7 @@
             "patch_path": "https://github.com/YouTube-101/jackbox-utility-tr/releases/download/releases/pp9.zip",
             "configuration": {
               "version_origin": "repo_file",
-              "version_file": "https://izlence.jackbox.tv.tr/assets/patchs/pp9.jet",
+              "version_file": "https://izlence.jackbox.tv.tr/assets/patchs/pp9.json",
               "version_property": "TRModVersion"
             },
             "components": [
@@ -2391,10 +2391,10 @@
           "version": "1.0.0"
         },
         "configuration": {
-          "file": "jbg.config.jet",
+          "file": "jbg.config.json",
           "version_property": "buildVersion",
           "version_origin": "game_file",
-          "version_file": "jbg.config.jet"
+          "version_file": "jbg.config.json"
         },
         "store_links": {
           "steam": "https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/",
@@ -2647,7 +2647,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "config.jet",
+          "version_file": "config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -2813,7 +2813,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "jbg.config.jet",
+          "version_file": "jbg.config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -2887,7 +2887,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "jbg.config.jet",
+          "version_file": "jbg.config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -2962,7 +2962,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "jbg.config.jet",
+          "version_file": "jbg.config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
@@ -3037,7 +3037,7 @@
         },
         "configuration": {
           "version_origin": "game_file",
-          "version_file": "jbg.config.jet",
+          "version_file": "jbg.config.json",
           "version_property": "buildVersion"
         },
         "store_links": {
