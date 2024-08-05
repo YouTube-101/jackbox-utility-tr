@@ -1768,6 +1768,12 @@
                 "writing"
               ]
             },
+            "internal_name": "JackboxTalks",
+            "launch_with_loaders" : {
+                "steam": false,
+                "epic_games": true,
+                "native": true
+            },
             "loader": {
               "path": "loaders/tjpp7/talkingpoints.zip",
               "version": "1.0.0"
@@ -1893,6 +1899,12 @@
                 "writing"
               ]
             },
+            "internal_name": "DrawfulAnimate",
+            "launch_with_loaders" : {
+                "steam": false,
+                "epic_games": true,
+                "native": true
+            },
             "loader": {
               "path": "loaders/tjpp8/drawfulanimate.zip",
               "version": "1.0.0"
@@ -1936,6 +1948,12 @@
               "tags": [
                 "knowledge"
               ]
+            },
+            "internal_name": "TheWheel",
+            "launch_with_loaders" : {
+                "steam": false,
+                "epic_games": true,
+                "native": true
             },
             "loader": {
               "path": "loaders/tjpp8/thewheelofenormousproportions.zip",
@@ -2074,6 +2092,12 @@
                 "writing",
                 "deduction"
               ]
+            },
+            "internal_name": "MurderDetectives",
+            "launch_with_loaders" : {
+                "steam": false,
+                "epic_games": true,
+                "native": true
             },
             "loader": {
               "path": "loaders/tjpp8/weaponsdrawn.zip",
@@ -2226,6 +2250,12 @@
               "tags": [
                 "writing"
               ]
+            },
+            "internal_name": "MakeFriends",
+            "launch_with_loaders" : {
+                "steam": false,
+                "epic_games": true,
+                "native": true
             },
             "loader": {
               "path": "loaders/tjpp9/roomerang.zip",
