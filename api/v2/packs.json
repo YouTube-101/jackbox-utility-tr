@@ -2442,14 +2442,12 @@
                 "drawing"
               ]
             },
-            "game" : {
-                "internal_name": "AwShirt2"
-                "launch_with_loaders" : {
-                    "steam": false,
-                    "epic_games": true,
-                    "native": true
-                }
-            },
+            "internal_name": "AwShirt2"
+            "launch_with_loaders" : {
+                "steam": false,
+                "epic_games": true,
+                "native": true
+            }
             "loader": {
               "path": "loaders/tjpp10/teeko2.zip",
               "version": "1.0.0"
