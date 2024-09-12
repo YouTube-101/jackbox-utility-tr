@@ -2598,6 +2598,7 @@
               "knowledge"
             ]
           },
+          "internal_name": "TimeTrivia",
           "launch_with_loaders": {
             "steam": false,
             "epic_games": true,
@@ -2647,6 +2648,7 @@
               "writing"
             ]
           },
+          "internal_name": "RiskyText",
           "launch_with_loaders": {
             "steam": false,
             "epic_games": true,
@@ -2695,6 +2697,12 @@
             ],
             "tags": []
           },
+          "internal_name": "NopusOpus",
+          "launch_with_loaders": {
+            "steam": false,
+            "epic_games": true,
+            "native": true
+          },
           "loader": {
             "path": "loaders/tjpp10/dodoremi.zip",
             "version": "1.0.0"
@@ -2740,6 +2748,7 @@
               "deduction"
             ]
           },
+          "internal_name": "Strangers",
           "launch_with_loaders": {
             "steam": false,
             "epic_games": true,
